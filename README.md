@@ -5,12 +5,12 @@ A kneaded, B sprinkled, C overbaked
 Someone secretly left you a little bread, probably hoping you’ll pass one on to the next visitor. Every loaf here gets a bit of teamwork, someone kneads, someone sprinkles, someone overbakes, yet they always turn out strangely adorable.
 
 ## How to Run / Install
-1.Install Node.js.   
-2.Download or clone this repository.    
-3.Open the project folder in a terminal.   
-4.Install dependencies: npm install   
-5.Start the server: node app.js  
-6.Open the browser and go to: http://localhost:3000  
+1. Install Node.js.   
+2. Download or clone this repository.    
+3. Open the project folder in a terminal.   
+4. Install dependencies: npm install   
+5. Start the server: node app.js  
+6. Open the browser and go to: http://localhost:3000  
  
 Interaction:
 1. Create:
